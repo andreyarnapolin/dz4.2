@@ -58,6 +58,8 @@ div {
   color: black;
   margin-left: 5px;
   margin-top: 5px;
+  text-overflow: ellipsis;
+  overflow: hidden;
 }
 
 #as2 h2 {
